@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --byte-offset --only-matching --text SCHOOL
+grep --byte-offset SCHOOL
