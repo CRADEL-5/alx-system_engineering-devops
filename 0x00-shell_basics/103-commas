@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -paldmnli
+ls -amp | sort -d

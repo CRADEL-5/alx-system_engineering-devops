@@ -1,2 +1,3 @@
 #!/bin/bash
-file grep --byte-offset SCHOOL
+0 string SCHOOL school data
+!:mime school
