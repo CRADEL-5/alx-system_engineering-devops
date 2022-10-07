@@ -1,3 +1,2 @@
 #!/bin/bash
-mv *UC* /tmp/u
-
+mv {{:upper:}}* /tmp/u
